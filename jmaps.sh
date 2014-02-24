@@ -10,6 +10,7 @@
 # tile cache folder with the name zz_xxxxx_yyyyy.png
 #
 # Prime Jyothi 20131029 primejyothi [at] gmail [dot] com
+# License GPLv3
 
 # Log functions
 . logs.sh
