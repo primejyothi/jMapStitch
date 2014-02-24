@@ -6,9 +6,11 @@ JOSM downloads the OSM tiles to a folder pointed by imagery.tms.tilecache_path (
 
 #### Running jmaps.sh
 jmaps.sh [-d] [-h] -t tileDirectory -l topLeftImage -r lowerRightImage -o outputFile
+```
          -d : Enable debug messages
          -h : Display this help message
          -t : Directory containing tile images
          -l : Name of the top left tile image file
          -r : Name of the lower right tile image file
          -o : Name of the output file
+```	
